@@ -1,0 +1,20 @@
+---
+title: "Prisoners Analysis"
+author: "Sonya Eason"
+format: html
+editor: visual
+---
+
+*Introduction*
+
+Adverse childhood experiences have been connected to worse health and development outcomes (1). I have an interest in considering observational data of prisoners to look for preliminary associations with ACEs and time in prison.
+
+------------------------------------------------------------------------
+
+*Family in Prison*
+
+We will first examine the effects of having family members, namely father, mother, and siblings, in prison. Such analysis is challenging given that individuals who have family in prison are also more likely to have other factors in common. Any association here has the potential of being spurious.
+
+*References*
+
+1.  Webster EM. The Impact of Adverse Childhood Experiences on Health and Development in Young Children. Glob Pediatr Health. 2022 Feb 26;9:2333794X221078708. doi: 10.1177/2333794X221078708. PMID: 35237713; PMCID: PMC8882933.
